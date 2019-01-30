@@ -1,0 +1,245 @@
+@charset "UTF-8";
+
+.hidden
+{
+  display: none;
+}
+
+
+.container
+{
+  width: 960px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.mainDiv img
+{
+  width: 960px;
+  height: 200px;
+  margin-top: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.mainDiv h1
+{
+  font-family: 'Josefin Slab', serif;
+  font-size: 40px;
+  margin-top: -300px;
+  margin-left: 70px;
+  text-transform: uppercase;
+  word-spacing: 8px;
+  color: #4f7a39;
+  font-weight: 800;
+}
+
+
+.mainDiv h3
+{
+  margin-top: 270px;
+  margin-left: 10px;
+  color: #4f7a39;
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  word-spacing: 5.8px;
+  text-align: center;
+}
+
+.secondDiv
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 14px groove #e59a04;
+  -webkit-border-radius: 16px 0px 16px 0px;
+  border-radius: 16px 0px 16px 0px;
+}
+
+.secondDiv img
+{
+  height: 288px;
+  width: 434px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.para_1
+{
+  text-align: left;
+  font-size: 30px;
+  font-family: 'Rajdhani', sans-serif;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  margin-left: 480px;
+  margin-top: -280px;
+}
+
+.para_2
+{
+  font-family: 'Righteous', cursive;
+  text-align: center;
+  font-size: 45px;
+  word-spacing: 8px;
+  font-variant: normal;
+  text-transform: none;
+  color: #ff890c;
+  display: inline-block;
+  margin-top: 0px;
+}
+
+.para_3
+{
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+
+}
+
+.thirdDiv
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+.thirdDiv h2
+{
+    font-family: 'Syncopate', sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    margin-left: 30px;
+
+}
+
+.thirdDiv img
+{
+  margin: auto;
+  margin-top: 20px;
+}
+
+.thirdDiv p
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: 'Text Me One', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.fourthDiv
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  border: 8px dotted #e59a04;
+  -webkit-border-radius: 16px 0px 16px 0px;
+  border-radius: 16px 0px 16px 0px;
+}
+
+.fourthDiv img
+{
+
+}
+
+.fourthDiv h2
+{
+  font-family: 'Overlock SC', cursive;
+  font-size: 20px;
+  text-align: left;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  margin-left: 20px;
+}
+
+.fourthDiv img
+{
+  margin-left: 20px;
+}
+
+.fourthDiv p
+{
+  font-family: 'Farsan', cursive;
+  font-size: 25px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.para_4
+{
+  text-align: left;
+  font-size: 25px;
+  font-family: 'Text Me One', sans-serif;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  margin-left: 610px;
+  margin-top: -1020px;
+}
+
+.para_5
+{
+  text-align: left;
+  font-size: 25px;
+  font-family: 'Text Me One', sans-serif;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  margin-left: 610px;
+  margin-top: 0px;
+}
+
+.images
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 10px;
+
+}
